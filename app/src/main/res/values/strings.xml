@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TabTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fragment_tab1">FragmentTab1</string>
+    <string name="title_activity_fragment_tab2">FragmentTab2</string>
+    <string name="title_activity_fragment_tab3">FragmentTab3</string>
+
+</resources>
